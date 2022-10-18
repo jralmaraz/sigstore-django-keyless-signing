@@ -1,5 +1,4 @@
 name: Publish and Sign Container Image
-
 on:
   schedule:
     - cron: '32 11 * * *'
